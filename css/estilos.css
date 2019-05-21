@@ -6,4 +6,6 @@ body{
 h1{
   font-size: 40px;
   color: rgb(206, 42, 42);
+  text-decoration-line: underline;
+  text-decoration-color: blue;
 }
